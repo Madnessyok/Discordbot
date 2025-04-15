@@ -17,7 +17,7 @@ Please read and agree to the Terms of Service before using the bot.
 
 We respect your privacy. Please read our Privacy Policy for more details on how we handle your data.
 
-[Read our Privacy Policy](privacy.md)
+[Read our Privacy Policy](Privacy%20Policy.md)
 
 ---
 
