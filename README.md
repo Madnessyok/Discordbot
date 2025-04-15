@@ -9,7 +9,7 @@ This bot is here to provide you with motivational quotes and support to keep you
 
 Please read and agree to the Terms of Service before using the bot.
 
-[Read our Terms of Service](terms.md)
+[Read our Terms of Service](Terms.md)
 
 ---
 
